@@ -163,6 +163,10 @@
       <path value="$PROJECT_DIR$/vendor/api-platform/symfony" />
       <path value="$PROJECT_DIR$/vendor/api-platform/state" />
       <path value="$PROJECT_DIR$/vendor/api-platform/validator" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/clock" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/lexik/jwt-authentication-bundle" />
+      <path value="$PROJECT_DIR$/vendor/namshi/jose" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />

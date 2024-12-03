@@ -1,0 +1,18 @@
+Api-platform 
+après intall commenter le missing_import_module et décommenter
+ajouter le format dans packages/api-platform
+    formats:
+        json: ['application/json']
+
+JWT
+passez à la version 2.19.*
+activer l'extension sodium dans le php.ini
+
+Ne pas installer openssl https://slproweb.com/products/Win32OpenSSL.html
+utiliser -> php bin/console lexik:jwt:generate-keypair
+
+
+attention au stateless: true
+
+
+
